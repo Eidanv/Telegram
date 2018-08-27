@@ -78,8 +78,8 @@ namespace Telegram_Bot_10
                     {
                         new[]
                         {
-                            InlineKeyboardButton.WithUrl("VK", "https://vk.com/dima_dmitriev666"),
-                            InlineKeyboardButton.WithUrl("youtube", "https://www.youtube.com/watch?v=3ah6FQP5ozk")
+                            InlineKeyboardButton.WithUrl("VK", "https://vk.com"),
+                            InlineKeyboardButton.WithUrl("youtube", "https://www.youtube.com")
                         },
                         new[]
                         {
